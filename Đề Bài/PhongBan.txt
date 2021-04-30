@@ -1,0 +1,12 @@
+MYDATABASE
+Comment So Luong Field: 2, So Luong Mau Tin: 5
+Comment Ten Field Start Width DatType: I: SoNguyen, C: Char, F: So thuc, B: Bool, D: Ngay
+2
+MaPB        1        3      C     
+TenPB       4       30      C
+5
+KH Phoøng Kinh teá Keá hoaïch    
+KT Phoøng Keá toaùn Taøi chaùnh  
+TC Phoøng Toå chöùc Nhaân söï    
+TK Phoøng K? thuaät Thieát keá   
+VP Vaên phoøng Xí nghieäp        

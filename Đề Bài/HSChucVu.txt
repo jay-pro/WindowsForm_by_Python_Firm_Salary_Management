@@ -1,0 +1,15 @@
+MYDATABASE
+Comment So Luong Field: 2, So Luong Mau Tin: 8
+Comment Ten Field Start Width DatType: I: SoNguyen, C: Char, F: So thuc, B: Bool, D: Ngay
+2
+ChucVu        1        4      C     
+HSCV          5       13      F
+8
+GD  3.00         
+NV  1.00         
+PGD 2.20         
+PP  1.50         
+TK  1.20         
+TL  1.50         
+TP  2.00         
+TX  1.20         

@@ -1,0 +1,72 @@
+MYDATABASE
+Comment So Luong Field: 7, So Luong Mau Tin: 60
+Comment Ten Field Start Width DatType: I: SoNguyen, C: Char, F: So thuc, B: Bool, D: Ngay
+7
+MaNV            1       4      C     
+Ho              5      15      C
+Ten            20       7      C
+Phai           27       2      B 
+NTNS           29      11      D
+NgayBD         40      11      D
+MaPB           51       2      C
+60
+001 Laïi Vaên      Saâm   0 01/01/1966 30/04/1990 VP
+002 Traàn Vaên     Minh   0 23/02/1965 10/05/1990 VP
+003 Toáng Caûnh    Sôn    0 12/04/1963 24/10/1996 TK
+004 Ngoâ Vieät     Huøng  0 11/02/1977 04/06/1997 TK
+005 Mai Thò        Loan   1 23/05/1970 08/03/1989 TK
+006 Maïc Xuaân     Tieán  0 12/04/1963 28/03/1992 TK
+007 Vuõ Hoaøi      Anh    0 15/06/1968 09/03/1993 KH
+008 Traàn Thanh    Khanh  0 15/07/1942 11/10/1985 KH
+009 Nguyeãn Hoàng  Haïnh  1 13/01/1962 06/06/1987 KT
+010 Leâ Thò        Höông  1 23/05/1962 06/06/1988 KT
+011 Laâm Quoác     Khanh  0 21/06/1963 27/09/1991 KT
+012 Nguyeãn Hoàng  Vaân   1 11/05/1976 05/05/1995 TK
+013 Nguyeãn Minh   Quang  0 13/06/1951 05/05/1978 VP
+014 Trang Phi      Huøng  0 23/03/1953 07/07/1996 VP
+015 Traàn Nguyeät  Minh   1 19/09/1963 10/10/1995 VP
+016 Nguyeàn Ngoïc  Hieàn  1 14/03/1961 08/04/1990 VP
+017 Ñoã AÙnh       Hoàng  0 11/01/1960 05/05/1979 VP
+018 Ñinh Thò       Taâm   1 04/03/1962 05/05/1995 TC
+019 Nguyeãn Kim    Toaøn  1 01/09/1960 31/07/1990 TC
+020 Nguyeãn Bích   Lieân  1 03/03/1969 16/12/1996 TC
+021 Huyønh Baïch   Tuyeát 1 07/03/1968 23/05/1994 KH
+022 Leâ Phöông     Thanh  1 12/02/1957 05/05/1981 KH
+023 Taï Theá       Khanh  0 23/05/1969 15/09/1993 KH
+024 Buøi Sôn       Haûi   0 14/03/1951 08/05/1990 TC
+025 Löu Vuõ        Caåm   0 17/06/1970 22/08/1995 TK
+026 Ñoaøn Ñöùc     Chi    0 12/05/1960 30/10/1994 TC
+027 Traàn Quang    Thònh  0 14/09/1963 05/05/1992 TK
+028 Tröông Leä     Xuaân  1 13/04/1968 23/05/1994 KT
+029 Nguyeãn Vaên   Thanh  0 02/09/1969 08/02/1996 TC
+030 Ñaëng Vaên     Thuûy  0 01/01/1968 23/08/1992 TK
+031 Nguyeãn Vaên   Ñình   0 02/02/1979 23/05/1994 KH
+032 Laâm Vaên      Tuaán  0 12/02/1969 09/09/1993 TK
+033 Hoaøng Ngoïc   Thanh  0 13/05/1944 09/03/1978 VP
+034 Nguyeãn Vaên   Nuoâi  0 23/04/1970 02/10/1990 TK
+035 Dö Ñình        Vieät  0 12/04/1945 31/07/1985 TC
+036 Leâ Trung      Bình   0 13/04/1977 30/05/1997 TK
+037 Traàn Theá     Duyeät 0 14/04/1970 26/04/1996 KH
+038 Leâ Bích       Phöông 1 13/03/1974 04/08/1995 KH
+039 Mai Vaên       Ñöùc   0 14/04/1960 04/10/1993 TC
+040 Tröông Xuaân   Hoàng  0 15/05/1940 28/04/1979 TC
+041 Huyønh Ngoïc   Quaùnh 0 23/05/1964 30/05/1990 TK
+042 Ñaøo Thanh     Höông  1 12/03/1969 08/08/1993 TK
+043 Phaïm Hoaøi    Nam    1 15/06/1978 28/07/1992 VP
+044 Leâ Thò Myõ    Linh   1 19/09/1971 30/05/1995 TK
+045 Phaïm Theá     Dung   0 23/05/1980 30/12/1997 TK
+046 Hoaøng Thanh   Trang  1 12/03/1970 03/03/1997 KT
+047 Nguyeãn Vaên   Hieàn  0 15/06/1960 05/05/1988 TK
+048 Traàn Nguyeät  Nga    1 12/07/1965 26/04/1993 TK
+049 Mai Thò Hoàng  Xuaân  1 02/06/1962 09/09/1995 VP
+050 Nguyeãn Thò    Nam    1 06/07/1960 06/06/1987 KT
+051 Toân Thò Thanh Nhaøn  1 14/06/1965 04/10/1993 TC
+052 Nguyeãn Toá    Uyeân  1 05/06/1963 07/10/1990 TK
+053 Löông Anh      Tuyeàn 1 23/01/1975 02/10/1997 KT
+054 Ñoã Vaên       Thanh  0 24/03/1971 06/06/1993 VP
+055 Löông Vaên     Chính  0 20/05/1963 12/01/1997 TK
+056 Tröông Töôøng  Nhaät  0 25/12/1972 23/05/1994 KH
+057 Nguyeãn Xuaân  Phöông 0 14/04/1960 05/01/1986 TK
+058 Voõ Ngoïc      Quang  0 12/02/1960 07/10/1990 TK
+059 Nguyeãn Thanh  Thö    1 19/05/1960 07/07/1996 TK
+060 Nguyeãn TröôøngSôn    0 20/05/1941 22/07/1989 KT
