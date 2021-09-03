@@ -1,5 +1,5 @@
 # WindowsForm_by_Python_Firm_Salary_Management
-Information Technology Field Project &lt;WindowsForm_by_Python_Firm_Salary_Management> implemented by Hà Nhi and collaborator Huỳnh Trần Thảo Nhi
+Information Technology Field Project &lt;WindowsForm_by_Python_Firm_Salary_Management> implemented by Bùi Hà Nhi and Huỳnh Trần Thảo Nhi
 -------------------
 Project group 03: DEPARTMENT SALARY MANAGEMENT
 implemented and developed by Python and excuted on Visual Studio Code
